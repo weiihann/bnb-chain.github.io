@@ -83,7 +83,7 @@ BNB Chain opens the gate for users to take advantage of the fast transferring an
 
 ## How many assets are issued on BNB Chain ?
 
-There are already [140 assets](https://explorer.binance.org/assets/bep2) on BNB Chain 
+There are already [140 assets](https://explorer.bnbchain.org/assets/bep2) on BNB Chain 
 
 The introduction of [BEP8](https://github.com/bnb-chain/BEPs/blob/master/BEP8.md) is an innovative way for tokenization of properties
 

@@ -89,7 +89,7 @@ BNB Chain opens the gate for users to take advantage of the fast transferring an
 
 ### How many assets are issued on BNB Chain?
 
-There are already [140 assets](https://explorer.binance.org/assets/bep2) on BNB Chain
+There are already [140 assets](https://explorer.bnbchain.org/assets/bep2) on BNB Chain
 
 The introduction of [BEP8](https://github.com/bnb-chain/BEPs/blob/master/BEP8.md) is an innovative way for tokenization of properties
 
@@ -220,7 +220,7 @@ Please try to contact the support of the receiver address to help with the depos
 
 1. Get the Cross-chain transfer transaction hash of the BNB Beacon Chain
 
-For example https://explorer.binance.org/tx/8B9B066BAF9DC1C233A9D316C75E8139B985518868C1120B656C5B3EBAC7C498 
+For example https://explorer.bnbchain.org/tx/8B9B066BAF9DC1C233A9D316C75E8139B985518868C1120B656C5B3EBAC7C498 
 
 Please make sure the “Transaction Type” is “Cross-chain transfer out”
 
